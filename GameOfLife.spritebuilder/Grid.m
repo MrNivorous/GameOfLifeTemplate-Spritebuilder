@@ -67,8 +67,4 @@ static const int GRID_COLUMNS = 10;
         
         }
     }
-    
-    
-    
-}
 @end
